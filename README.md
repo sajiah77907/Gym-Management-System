@@ -1,1 +1,2 @@
 # Gym-Management-System
+The gym management system features a Django backend for seamless data management, offering functionalities like member registration, scheduling, and payment tracking. Its HTML, CSS, and JavaScript frontend provides an intuitive user interface, enabling members to easily access and manage their profiles, bookings, and payments. The system ensures smooth communication between frontend and backend, facilitating efficient gym operations and member engagement.
